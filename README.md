@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá sou Mateus, tenho 23 anos <strong>Full Stack</strong>.<br>
-  Estou fazendo TI na UFMS.
+  Olá sou Mateus, tenho 24 Anos 
+  <strong>Full Stack</strong>.<br>
+  Formado em TI pela UFMS.
 </p>
 
 <p align="left">
